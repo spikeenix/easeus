@@ -1,4 +1,4 @@
-# D E L T A - > https://tinyurl.com/bdtpe8kp
+# D E L T A - > https://tinyurl.com/4u4c2a8j
 
 🧠 NeuralForge — Deep Learning Framework for Unity
 
@@ -92,4 +92,4 @@ Federated learning
 
 📜 License
 
-MIT © 2025 NeuralForge Contributors
+MIT © 2026 NeuralForge Contributors
